@@ -5,13 +5,15 @@ body {
     
 }
 
+
+
 header {
     background-color: #ffffff;
     padding: 20px 50px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 2px solid #f0f0f0;
+    border-bottom: 1px solid #e7e9fc;
 }
 
 .navbar {
