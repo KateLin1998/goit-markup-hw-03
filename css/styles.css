@@ -176,6 +176,13 @@ a {
     gap: 24px;
 }
 
+.second-section-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
 .second-section-item {
     width: calc((100% - 72px) / 4);
 }
