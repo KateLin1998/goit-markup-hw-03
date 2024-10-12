@@ -116,6 +116,23 @@ a {
     color: #404bbf;
 }
 
+.solutions {
+    padding: 188px 0
+}
+.solutions-title {
+    max-width: 496px;
+}
+
+.order-button {
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    background-color: #4d5ae5;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
 img {
     display: block;
 }
