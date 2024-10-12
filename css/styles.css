@@ -118,6 +118,9 @@ a {
 
 .first-section {
     padding: 188px 0;
+    background-color: #2c2e49;
+    color: white;
+    text-align: center;
 }
 .first-section-title {
     max-width: 496px;
