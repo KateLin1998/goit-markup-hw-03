@@ -116,14 +116,14 @@ a {
     color: #404bbf;
 }
 
-.solutions {
+.first-section {
     padding: 188px 0;
 }
-.solutions-title {
+.first-section-title {
     max-width: 496px;
 }
 
-.order-button {
+.first-section-button {
     display: block;
     min-width: 169px;
     height: 56px;
