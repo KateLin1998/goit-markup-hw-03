@@ -121,6 +121,7 @@ a {
     background-color: #2e2f42;
     color: white;
     text-align: center;
+    justify-content: center;
 }
 
 .first-section-title {
