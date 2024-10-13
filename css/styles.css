@@ -132,6 +132,7 @@ a {
     color: #ffffff;
     max-width: 496px;
     margin-bottom: 48px;
+    margin: 0 auto;
 }
 
 .first-section-button {
@@ -147,6 +148,7 @@ a {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+    margin: 0 auto;
 }
 
 .first-section-button:hover,
